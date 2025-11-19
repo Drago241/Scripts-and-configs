@@ -50,3 +50,6 @@ ctrl+d
 "Screen record on linux mint"
 ctrl + alt + shift + r
 
+
+"Open, close and then re-open the Live-Wallpaper script"
+/home/mint/Live-Wallpaper.sh /home/mint/Downloads/Live-Wallpapers/MP4/13.mp4 ; sleep 1 ; killall Live-Wallpaper.sh ; sleep 1 ; /home/mint/Live-Wallpaper.sh /home/mint/Downloads/Live-Wallpapers/MP4/13.mp4
